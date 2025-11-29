@@ -1,6 +1,7 @@
 ---
 title: "Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using CNN"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-01-nerve-root-compression-number-32
 excerpt: ''
 date: 2023-12-01
