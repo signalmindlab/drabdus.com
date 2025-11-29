@@ -1,6 +1,7 @@
 ---
 title: "A systematic survey of AI models in financial market forecasting for profitability analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-05-a-systematic-survey-number-33
 excerpt: ''
 date: 2023-12-05
