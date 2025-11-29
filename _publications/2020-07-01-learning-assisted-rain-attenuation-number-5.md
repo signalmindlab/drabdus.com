@@ -1,6 +1,7 @@
 ---
 title: "Learning-Assisted Rain Attenuation Prediction Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-07-01-learning-assisted-rain-attenuation-number-5
 excerpt: ''
 date: 2020-07-01
