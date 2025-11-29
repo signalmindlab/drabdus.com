@@ -1,6 +1,7 @@
 ---
 title: "Adapted Deep Ensemble Learning-Based Voting Classifier for Osteosarcoma Cancer Classification"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-08-01-adapted-deep-ensemble-number-25
 excerpt: ''
 date: 2023-08-01
