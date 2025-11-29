@@ -3,6 +3,7 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+published: false % added by Abdus
 ---
 
 {% include base_path %}
