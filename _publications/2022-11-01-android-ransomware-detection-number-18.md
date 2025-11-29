@@ -1,6 +1,7 @@
 ---
 title: "Android Ransomware Detection From Traffic Analysis Using Metaheuristic Feature Selection"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-11-01-android-ransomware-detection-number-18
 excerpt: ''
 date: 2022-11-01
