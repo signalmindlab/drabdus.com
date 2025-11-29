@@ -1,6 +1,7 @@
 ---
 title: "LCNN: lightweight CNN architecture for software defect feature identification using explainable AI"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-05-01-lcnn-lightweight-cnn-number-43
 excerpt: ''
 date: 2024-05-01
