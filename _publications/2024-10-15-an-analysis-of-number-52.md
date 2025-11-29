@@ -1,6 +1,7 @@
 ---
 title: "An analysis of decipherable red blood cell abnormality detection under federated environment leveraging XAI incorporated deep learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-10-15-an-analysis-of-number-52
 excerpt: ''
 date: 2024-10-15
