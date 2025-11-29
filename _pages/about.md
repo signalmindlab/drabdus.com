@@ -19,7 +19,7 @@ Dr. Samad's doctoral studies were fully supported by the prestigious Korean Gove
 
 Dr. Samad brings substantial teaching and research experience to his current role. From 2013 to 2017, he served as an Assistant Professor in the Department of Electronics and Telecommunication Engineering at International Islamic University Chittagong, Chattogram, Bangladesh. During this tenure, he contributed significantly to developing future telecommunications engineers through teaching, mentoring, and curriculum development.
 
-Currently, as a Research Professor at Yeungnam University, he focuses on cutting-edge research in wireless communications and artificial intelligence applications, collaborating with international research teams and contributing to South Korea's leadership in 5G and beyond wireless technologies.
+Currently, as a Research Professor at Yeungnam University, he focuses on cutting-edge research in wireless communications and artificial intelligence applications, collaborating with international research teams.
 
 ### Research Expertise
 
@@ -42,7 +42,7 @@ His work particularly focuses on understanding and mitigating the challenges pos
 
 ### Scholarly Contributions
 
-Dr. Samad has established himself as a prolific researcher with over 55 publications in reputable SCIE (Science Citation Index Expanded) and SSCI (Social Sciences Citation Index) indexed journals. His work has been widely cited and contributes to the global understanding of advanced wireless communication systems.
+Dr. Samad has established himself as a prolific researcher with over 60 publications in reputable SCIE (Science Citation Index Expanded) and SSCI (Social Sciences Citation Index) indexed journals. His work has been widely cited and contributes to the global understanding of advanced wireless communication systems.
 
 **Research Metrics:**
 - Scopus Author ID: 57220375948
@@ -59,7 +59,7 @@ Beyond his research contributions, Dr. Samad actively serves the academic commun
 
 ### Research Vision
 
-Dr. Samad's work continues to push the boundaries of wireless communication technology, with a particular focus on developing robust, efficient solutions for next-generation networks. His interdisciplinary approach, combining traditional electromagnetic theory with modern artificial intelligence techniques, positions him at the cutting edge of telecommunications research. His contributions are helping to shape the future of wireless communications, from 5G deployment to the development of 6G technologies.
+Dr. Samad's work continues to push the boundaries of wireless communication technology, with a particular focus on developing robust, efficient solutions for next-generation networks. His interdisciplinary approach, combining traditional electromagnetic theory with modern artificial intelligence techniques, positions him at the cutting edge of telecommunications research. His contributions are helping to shape the future of wireless communications.
 
 <!-- 
 =====================================================
