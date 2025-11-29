@@ -55,7 +55,7 @@ Dr. Samad has established himself as a prolific researcher with over 60 publicat
 Beyond his research contributions, Dr. Samad actively serves the academic community as:
 - Peer reviewer for multiple international journals indexed in the Web of Science
 - IEEE member, contributing to the advancement of telecommunications standards
-- Registered Korean Researcher (ID: 1249**2*)
+- Registered Korean Researcher
 
 ### Research Vision
 
