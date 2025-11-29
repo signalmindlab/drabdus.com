@@ -1,6 +1,7 @@
 ---
 title: "Results of Large-Scale Propagation Models in Campus Corridor at 3.7 and 28 GHz"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-10-01-results-of-large-scale-number-14
 excerpt: ''
 date: 2021-10-01
