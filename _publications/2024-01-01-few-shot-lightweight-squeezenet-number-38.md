@@ -1,6 +1,7 @@
 ---
 title: "Few-shot lightweight squeezenet architecture for induction motor fault diagnosis using limited thermal image dataset"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-few-shot-lightweight-squeezenet-number-38
 excerpt: ''
 date: 2024-01-01
