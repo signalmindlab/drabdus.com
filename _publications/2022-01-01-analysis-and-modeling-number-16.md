@@ -1,6 +1,7 @@
 ---
 title: "Analysis and Modeling of Propagation in Tunnel at 3.7 and 28 GHz"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-analysis-and-modeling-number-16
 excerpt: ''
 date: 2022-01-01
