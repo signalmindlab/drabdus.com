@@ -5,6 +5,7 @@ permalink: /sitemap/
 author_profile: true
 published: false 
 ---
+{% comment %}
 
 {% include base_path %}
 
@@ -19,6 +20,9 @@ A list of all the posts and pages found on the site. For you robots out there, t
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% endcomment %}
+
 
 {% capture written_label %}'None'{% endcapture %}
 
