@@ -1,6 +1,7 @@
 ---
 title: "Exploring factors influencing the severity of pregnancy anemia in India: a study using proportional odds model"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-20-exploring-factors-influencing-number-36
 excerpt: ''
 date: 2023-12-20
