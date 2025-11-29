@@ -1,6 +1,7 @@
 ---
 title: "A Review of Approaches for Rapid Data Clustering: Challenges, Opportunities and Future Directions"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-09-01-a-review-of-number-49
 excerpt: ''
 date: 2024-09-01
