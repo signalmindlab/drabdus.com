@@ -1,6 +1,7 @@
 ---
 title: "Hierarchical attention module-based hotspot detection in wafer fabrication using convolutional neural network model"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-15-hierarchical-attention-module-based-number-46
 excerpt: ''
 date: 2024-07-15
