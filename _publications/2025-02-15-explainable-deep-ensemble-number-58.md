@@ -1,6 +1,7 @@
 ---
 title: "Explainable Deep Ensemble Meta-Learning Framework for Brain Tumor Classification Using MRI Images"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-02-15-explainable-deep-ensemble-number-58
 excerpt: ''
 date: 2025-02-15
