@@ -1,6 +1,7 @@
 ---
 title: "Path Loss Investigation in Hall Environment at Centimeter and Millimeter-Wave Bands"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-08-01-path-loss-investigation-number-17
 excerpt: ''
 date: 2022-08-01
