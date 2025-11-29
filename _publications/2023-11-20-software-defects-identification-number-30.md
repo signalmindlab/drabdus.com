@@ -1,6 +1,7 @@
 ---
 title: "Software defects identification: Results using machine learning and explainable artificial intelligence techniques"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-11-20-software-defects-identification-number-30
 excerpt: ''
 date: 2023-11-20
