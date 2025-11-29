@@ -1,6 +1,7 @@
 ---
 title: "Feature group partitioning: an approach for depression severity prediction with class balancing using machine learning algorithms"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-04-01-feature-group-partitioning-number-42
 excerpt: ''
 date: 2024-04-01
