@@ -1,6 +1,7 @@
 ---
 title: "Medicinal Plant Classification Using Particle Swarm Optimized Cascaded Network"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-02-01-medicinal-plant-classification-number-39
 excerpt: ''
 date: 2024-02-01
