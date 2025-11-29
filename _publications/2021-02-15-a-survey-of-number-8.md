@@ -1,6 +1,7 @@
 ---
 title: "A Survey of Rain Attenuation Prediction Models for Terrestrial Links—Current Research Challenges and State-of-the-Art"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-02-15-a-survey-of-number-8
 excerpt: ''
 date: 2021-02-15
