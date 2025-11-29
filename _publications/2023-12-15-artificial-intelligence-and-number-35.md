@@ -1,6 +1,7 @@
 ---
 title: "Artificial intelligence and behavioral economics: A bibliographic analysis of research field"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-15-artificial-intelligence-and-number-35
 excerpt: ''
 date: 2023-12-15
