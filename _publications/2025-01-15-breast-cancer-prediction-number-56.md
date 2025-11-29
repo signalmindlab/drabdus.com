@@ -1,6 +1,7 @@
 ---
 title: "Breast cancer prediction with feature-selected XGB classifier, optimized by metaheuristic algorithms"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-15-breast-cancer-prediction-number-56
 excerpt: ''
 date: 2025-01-15
