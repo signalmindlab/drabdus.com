@@ -1,6 +1,7 @@
 ---
 title: "Centimeter and Millimeter-Wave Propagation Characteristics for Indoor Corridors: Results from Measurements and Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-11-01-centimeter-and-millimeter-wave-number-15
 excerpt: ''
 date: 2021-11-01
