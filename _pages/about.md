@@ -7,7 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-Md Abdus Samad received the Ph.D. degree in information and communication engineering from Chosun University, Gwangju, South Korea, in 2022. From 2013 to 2017, he was an Assistant Professor with the Department of Electronics and Telecommunication Engineering, International Islamic University Chittagong, Chattogram, Bangladesh. He is currently a Research Professor with the Department of Information and Communication Engineering, Yeungnam University, Gyeongsan, South Korea. His research interests include signal processing, antenna design, electromagnetic wave propagation, applications of artificial neural networks and deep learning, and millimeter-wave propagation by interference or atmospheric causes for 5G and beyond wireless networks. Dr. Abdus Samad received the Prestigious Korean Government Scholarship for his doctoral study.
+## Biography
+
+Dr. Md Abdus Samad is a distinguished Research Professor in the Department of Information and Communication Engineering at Yeungnam University, Gyeongsan, South Korea. His academic journey has been marked by excellence and international recognition, culminating in a Ph.D. degree in Information and Communication Engineering from Chosun University, Gwangju, South Korea, which he completed in 2022.
+
+### Educational Background
+
+Dr. Samad's doctoral studies were fully supported by the prestigious Korean Government Scholarship (Global Korea Scholarship), a highly competitive program that recognizes outstanding international students. Additionally, his research during this period received funding from the National Research Foundation of Korea, underscoring the significance and quality of his work in advancing wireless communication technologies.
+
+### Professional Experience
+
+Dr. Samad brings substantial teaching and research experience to his current role. From 2013 to 2017, he served as an Assistant Professor in the Department of Electronics and Telecommunication Engineering at International Islamic University Chittagong, Chattogram, Bangladesh. During this tenure, he contributed significantly to developing future telecommunications engineers through teaching, mentoring, and curriculum development.
+
+Currently, as a Research Professor at Yeungnam University, he focuses on cutting-edge research in wireless communications and artificial intelligence applications, collaborating with international research teams and contributing to South Korea's leadership in 5G and beyond wireless technologies.
+
+### Research Expertise
+
+Dr. Samad's research portfolio encompasses several interconnected areas at the forefront of modern communications technology:
+
+**Wireless Communications & Propagation:**
+- Signal processing techniques for next-generation networks
+- Antenna design and optimization
+- Electromagnetic wave propagation modeling
+- Millimeter-wave propagation characterization for 5G and beyond
+- Analysis of interference and atmospheric effects on wireless signals
+
+**Artificial Intelligence & Machine Learning:**
+- Applications of artificial neural networks in wireless systems
+- Deep learning approaches for signal processing
+- Data-driven methods for propagation prediction
+- AI-enhanced network optimization
+
+His work particularly focuses on understanding and mitigating the challenges posed by millimeter-wave frequencies in 5G and future 6G networks, including the effects of atmospheric conditions and interference on signal quality and network performance.
+
+### Scholarly Contributions
+
+Dr. Samad has established himself as a prolific researcher with over 55 publications in reputable SCIE (Science Citation Index Expanded) and SSCI (Social Sciences Citation Index) indexed journals. His work has been widely cited and contributes to the global understanding of advanced wireless communication systems.
+
+**Research Metrics:**
+- Scopus Author ID: 57220375948
+- Web of Science ResearcherID: JPL-7257-2023
+- IEEE Member ID: ****2189
+- Over 55 publications in SCIE/SSCI journals
+
+### Professional Service
+
+Beyond his research contributions, Dr. Samad actively serves the academic community as:
+- Peer reviewer for multiple international journals indexed in the Web of Science
+- IEEE member, contributing to the advancement of telecommunications standards
+- Registered Korean Researcher (ID: 1249**2*)
+
+### Research Vision
+
+Dr. Samad's work continues to push the boundaries of wireless communication technology, with a particular focus on developing robust, efficient solutions for next-generation networks. His interdisciplinary approach, combining traditional electromagnetic theory with modern artificial intelligence techniques, positions him at the cutting edge of telecommunications research. His contributions are helping to shape the future of wireless communications, from 5G deployment to the development of 6G technologies.
 
 <!-- 
 =====================================================
