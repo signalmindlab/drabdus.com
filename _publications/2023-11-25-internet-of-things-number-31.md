@@ -1,6 +1,7 @@
 ---
 title: "Internet of Things in Pregnancy Care Co-Ordination and Management: A Systematic Review"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-11-25-internet-of-things-number-31
 excerpt: ''
 date: 2023-11-25
